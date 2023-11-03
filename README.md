@@ -14,4 +14,6 @@
 ![KeyInfluencers-Numerical vb](https://github.com/Lucia-Niculae/Portofolio/assets/145463695/0658ec8d-1774-4a8a-a8fa-d3671781ab20)
 
 ### I used Python (Jupyter Notebook: Pandas, Matplotlib, Seaborn) to understand the data better and get the information I nedeed.
+#### I uploaded the entire Python analysis. Feel free to comment if you have improvments sugest.
+
 
